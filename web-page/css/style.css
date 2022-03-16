@@ -1,0 +1,122 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.carousel-item {
+    height: 100vh;
+}
+
+.carousel-item-image {
+    object-fit: cover;
+}
+
+.news-img {
+    width: 24rem;
+}
+
+.navbar-header1 {
+    height: 40px;
+}
+
+.card-logo {
+    color: white;
+    background-color: #FF4500;
+    border-radius: 50%;
+    position: absolute;
+    left: 42%;
+    top: -17%;
+}
+
+.quote-btn {
+    color: #FF4500;
+    border-color: #FF4500!important;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.fa-greater-than {
+    color: #FF4500;
+    font-size: 8px;
+}
+
+.footer-span {
+    color: #FF4500;
+}
+
+.footer-copyright-div {
+    padding-left: 5.5px;
+}
+
+.footer-list {
+    padding-bottom: 14px;
+}
+
+.footer-input-btn {
+    background-color: #FF4500;
+    color: white;
+}
+
+.footer-section {
+    background-color: black;
+}
+
+.list-inline-item {
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 6px;
+    background-color: #FF4500;
+    color: white;
+}
+
+.clients-logo-section {
+    padding: 0 !important;
+}
+
+.lilly-logo {
+    border-right: 1px solid #dee2e6;
+}
+
+.clients-logo-border {
+    padding-bottom: 20px;
+}
+
+.clients-logo-image {
+    width: inherit;
+    border: 1px solid #dee2e6;
+}
+
+.clients-logo-image1 {
+    padding: 1.5px;
+}
+
+.client-logo-divition {
+    margin-top: -28px;
+}
+
+.recent-work-btn {
+    border-radius: 28px!important;
+    padding: 6px 15px 6px 15px!important;
+    text-align: center;
+}
+
+.recent-work-btn1 {
+    border-radius: 28px!important;
+    padding: 2px 12px 2px 12px!important;
+    text-align: center;
+    background-color: #FF4500;
+    border: none;
+}
+
+.section-footer {
+    background-color: #14100F;
+}
+
+@media(max-width: 768px) {
+    .list-inline-item {
+        margin-top: 5%;
+    }
+}
